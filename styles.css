@@ -1,0 +1,64 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.block{
+    width: 400px;
+    height: 250px;
+    background-color: black;
+}
+
+.flag{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+}
+
+.circle{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    background-color: red;
+}
+
+.border{
+    width: 400px;
+    height: 275px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding-bottom: 25px;
+    border: 3px solid gray;
+}
+
+.bar1{
+    width: 70px;
+    height: 250px;
+    background-color: lightblue;
+}
+
+.bar2{
+    width: 70px;
+    height: 174px;
+    background-color: lightblue;
+}
+
+.bar3{
+    width: 70px;
+    height: 92px;
+    background-color: lightblue;
+}
+
+.bar4{
+    width: 70px;
+    height: 221px;
+    background-color: lightblue;
+}
